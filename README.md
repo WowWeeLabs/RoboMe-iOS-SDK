@@ -14,9 +14,9 @@ For information on WowWee products visit: http://www.wowwee.com/.
 Getting Started
 ---------------------------------------
 
-Download the [RoboMe iOS SDK](https://github.com/wowwee/robome-iOS-sdk).
+Download the [RoboMe iOS SDK](https://github.com/WowWeeLabs/RoboMe-iOS-SDK).
 
-The quickest way to get started is to open the sample app under the Sample-Project directory. The RoboMe sample app starts listening to events from RoboMe and prints these to the text view. It also displays buttons to send a few movement commands to RoboMe. For a full list of commands see RoboMe.h.
+The quickest way to get started is to open the sample app under the SampleProject directory. The RoboMe sample app starts listening to events from RoboMe and prints these to the text view. It also displays buttons to send a few movement commands to RoboMe. For a full list of commands see RoboMeCommands.h.
 
 Creating your own app using the RoboMe iOS SDK
 -----------------------------------------------
