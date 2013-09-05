@@ -2,8 +2,7 @@
 //  ViewController.h
 //  RoboMeBasicSample
 //
-//  Created by Josh Savage on 31/7/13.
-//  Copyright (c) 2013 Josh Savage. All rights reserved.
+//  Copyright (c) 2013 WowWee Group Limited. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -31,7 +31,7 @@
 /** Returns if currently playing or there are still sounds in the queue */
 - (BOOL)isPlaying;
 
-/** Gap between commands in milliseconds (default 100ms) */
+/** Gap between commands in milliseconds (default 0ms) */
 @property (nonatomic) int interval;
 
 /** AVAudioPlayer used to play sounds. */

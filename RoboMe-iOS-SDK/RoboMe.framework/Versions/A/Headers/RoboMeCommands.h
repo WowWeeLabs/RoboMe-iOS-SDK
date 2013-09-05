@@ -2,7 +2,6 @@
 //  RobotProtocal.h
 //  RobotApp
 //
-//  Created by Josh Savage on 21/2/13.
 //  Copyright (c) 2013 WowWee Group Limited. All rights reserved.
 //
 

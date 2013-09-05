@@ -1,7 +1,7 @@
 RoboMe iOS SDK
 ===============
 
-The RoboMe iOS SDK lets you use send and receive commands to and from your [RoboMe robot](http://www.wowwee.com) in apps you build for iPad, iPhone, and iPod touch devices.
+The RoboMe iOS SDK lets you send and receive commands to and from your [RoboMe robot](http://www.wowwee.com) in apps you build for iPad, iPhone, and iPod touch devices.
 
 Documentation of the SDK is available here: http://www.wowweelabs.com/robome/ios/docs/index.html
 
@@ -30,12 +30,12 @@ Here are the basic steps in creating your own app:
 3. Drag the RoboMe-iOS-SDK directory from the Mac OS Finder to the Frameworks directory for for your project in XCode. This directory contains the framework and bundle file required.
 
 4. The RoboMe framework requires a few other frameworks and libraries to be added to your project. The easiest way to add them is
-to copy them from the [RoboMeSample app](https://github.com/wowwee/robome-ios-sample).
+to copy them from the RoboMeSample app under the SampleProject directory..
 
 	Open the RoboMeSample app in XCode. Drag all of the additional frameworks from the frameworks folder (in the project navigator)
 	of the RoboMeSample project into the frameworks folder of your project.
 	
-	The additional frameworks and libraries include the following: AudioToolbox.framework, AVFoundation.framework, AudioToolbox.framework.
+	The additional frameworks and libraries include the following: AudioToolbox.framework, AVFoundation.framework, AudioToolbox.framework, MediaPlayer.framework, Security.framework.
 
 Next steps:
 
