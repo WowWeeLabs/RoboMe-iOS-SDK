@@ -1,15 +1,15 @@
 RoboMe iOS SDK
 ===============
 
-The RoboMe iOS SDK lets you send and receive commands to and from your [RoboMe robot](http://www.wowwee.com) in apps you build for iPad, iPhone, and iPod touch devices.
+The RoboMe iOS SDK lets you send and receive commands to and from your [RoboMe robot](http://www.wowwee.com) in apps you build for iPad, iPhone, and iPod touch devices. Supports iOS 5.0 and above.
 
 Documentation of the SDK is available here: http://www.wowweelabs.com/robome/ios/docs/index.html
 
-Support is available at the RoboCommunity forums: http://www.robocommunity.com/robome.
+Support is available at the RoboCommunity forums: http://www.robocommunity.com
 
-For Android or Unity SDKs visit: http://www.wowweelabs.com/. 
+For Android or Unity SDKs visit: http://www.wowweelabs.com/
 
-For information on WowWee products visit: http://www.wowwee.com/.
+For information on WowWee products visit: http://www.wowwee.com/
 
 Getting Started
 ---------------------------------------
@@ -27,13 +27,13 @@ Here are the basic steps in creating your own app:
 
 2. Open the project navigator in Xcode.
 
-3. Drag the RoboMe-iOS-SDK directory from the Mac OS Finder to the Frameworks directory for for your project in XCode. This directory contains the framework and bundle file required.
+3. Drag the RoboMe-iOS-SDK directory from the Mac OS Finder to the Frameworks directory for your project in XCode. This directory contains the framework and bundle file required.
 
 4. The RoboMe framework requires a few other frameworks and libraries to be added to your project. The easiest way to add them is
-to copy them from the RoboMeSample app under the SampleProject directory..
+to copy them from the RoboMe Sample app under the SampleProject directory.
 
-	Open the RoboMeSample app in XCode. Drag all of the additional frameworks from the frameworks folder (in the project navigator)
-	of the RoboMeSample project into the frameworks folder of your project.
+	Open the RoboMe sample app in XCode. Drag all of the additional frameworks from the frameworks folder (in the project navigator)
+	of the RoboMe sample project into the frameworks folder of your project.
 	
 	The additional frameworks and libraries include the following: AudioToolbox.framework, AVFoundation.framework, AudioToolbox.framework, MediaPlayer.framework, Security.framework.
 
@@ -51,7 +51,7 @@ Next steps:
 
 		@property (nonatomic, strong) RoboMe *roboMe;
 
-4. Rename ViewController.m to ViewController.mm (required because the RoboMe uses some c++ libraries)
+4. Rename ViewController.m to ViewController.mm (required because the RoboMe SDK uses some c++ libraries)
 
 5. In the ViewController.mm viewDidLoad method, add the following code to initialize and start the connection to RoboMe.
 
