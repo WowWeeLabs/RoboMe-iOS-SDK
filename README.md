@@ -3,13 +3,13 @@ RoboMe iOS SDK
 
 The RoboMe iOS SDK lets you send and receive commands to and from your [RoboMe robot](http://www.wowwee.com) in apps you build for iPad, iPhone, and iPod touch devices. Supports iOS 5.0 and above.
 
-Documentation of the SDK is available here: http://www.wowweelabs.com/robome/ios/docs/index.html
+Documentation of the SDK is available here: http://www.wowweelabs.com/SDKs/RoboMe/iOS/index.html
 
 Support is available at the RoboCommunity forums: http://www.robocommunity.com
 
-For Android or Unity SDKs visit: http://www.wowweelabs.com/
+For Android or Unity SDKs visit: http://www.wowweelabs.com
 
-For information on WowWee products visit: http://www.wowwee.com/
+For information on WowWee products visit: http://www.wowwee.com
 
 Getting Started
 ---------------------------------------
